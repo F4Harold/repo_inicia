@@ -3,3 +3,5 @@ prueva de segunda prueba
 
 lina solo rama master 
 linea nueva ara rama
+
+lina para obcervar diferencia en repocitorio locales y remotos
