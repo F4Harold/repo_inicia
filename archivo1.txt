@@ -5,3 +5,4 @@ lina solo rama master
 linea nueva ara rama
 
 lina para obcervar diferencia en repocitorio locales y remotos
+linea para mirar los commisen unn pusch
